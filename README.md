@@ -30,3 +30,4 @@ The Random Forest Model is the best model for predicting loan risk status among 
 - https://www.valuepenguin.com/loans/what-does-it-mean-to-default-on-a-loan
 - https://www.bankrate.com/personal-finance/debt/charged-off-as-bad-debt/#:~:text=If%20you've%20been%20delinquent,a%20loss%20for%20the%20company.
 - https://www.investopedia.com/terms/c/chargeoff.asp
+- https://github.com/fitria-dwi/Credit-Risk-Prediction
