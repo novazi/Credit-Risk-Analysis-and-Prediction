@@ -21,8 +21,8 @@ The Random Forest Model is the best model for predicting loan risk status among 
   - XGBoost Model: While this model has high accuracy values, it does not perform as well as the Random Forest model, especially in terms of generalization on the test data.
 
 ## **Conclusion**
-1.**Key Features**:The five most correlated features in determining the likelihood of loan repayment include `recoveries`, `collection_recovery_fee`, `total_resc_prncp`, `last_pymnt_d_year`, and `total_pymnt_inv`. The mentioned features are the most correlated in assessing loan repayment risk. This means that these factors strongly influence whether an applicant is likely to repay their loan or not.
-2.**Risk Mitigation Strategies**: Recommended strategies for dealing with applicants who exhibit high-risk indicators. If an applicant has characteristics associated with a high risk of not repaying a loan, companies should consider actions such as rejecting their loan application, reducing the loan amount, or charging a higher interest rate. This strategy aims to reduce the overall financial risk for the company.
+1. **Key Features**:The five most correlated features in determining the likelihood of loan repayment include `recoveries`, `collection_recovery_fee`, `total_resc_prncp`, `last_pymnt_d_year`, and `total_pymnt_inv`. The mentioned features are the most correlated in assessing loan repayment risk. This means that these factors strongly influence whether an applicant is likely to repay their loan or not.
+2. **Risk Mitigation Strategies**: Recommended strategies for dealing with applicants who exhibit high-risk indicators. If an applicant has characteristics associated with a high risk of not repaying a loan, companies should consider actions such as rejecting their loan application, reducing the loan amount, or charging a higher interest rate. This strategy aims to reduce the overall financial risk for the company.
 
 ## **References**:
 - https://www.investopedia.com/terms/g/grace_period.asp
